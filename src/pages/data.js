@@ -6,7 +6,7 @@ export default function Data(){
     // const [error,setError]=useState(false);
     const [sheetName,setSheetName]=useState('');
     const [apiKey,setApiKey]=useState('AIzaSyDJDdoXnI7QX8theHWfMVGG9_FxtJvxS8g');
-    const [spreadsheetId,setSpreadSheetId]=useState('1eShJQhrHY6KmQeB7ByuSrN8hgsrHCggmRuuW8x8_pHI');
+    const [spreadsheetId,setSpreadSheetId]=useState('1wKLAFP016TsySar10EQ6kMiBlv6GEVLsoDGfrE7IJjQ');
     const [sheetNames,setSheetNames]=useState(Array());
     var error;
     useEffect(()=>{
